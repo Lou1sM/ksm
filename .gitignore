@@ -1,0 +1,15 @@
+tags
+*txt
+*png
+*pdf
+data/**
+dim_red_cache/**
+results/**
+compressed_outputs/**
+results/**
+safe_results/**
+experiments/**
+compresse/**
+__pycache__/**
+**/*.swp
+**/*.swo
