@@ -6,6 +6,7 @@ While some existing clustering algorithms can automatically determine the number
 $K^*$-means is, to our knowledge, the first entirely parameter-free clustering algorithm.
 
 The code for the model is in `kstar_means.py`. You can run it simply as
+
 ```
 from kstar_means import KStarMeans
 
